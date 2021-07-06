@@ -22,13 +22,14 @@ for (let i = 0; i < 3; i++) {
 // klaar!
  // ==========================================
 
- for (let i = 0; i <=3; i++) {
+ for (let i = 0; i <= 4; i++) {
 
-    console.log("loop...");
-
-    if (i === 3) {
+    if (i === 4) {
 
         console.log("klaar!");
+    }
+    else {
+        console.log("loop...");
     }
  }
 
